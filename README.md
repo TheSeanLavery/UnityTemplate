@@ -10,4 +10,3 @@ Usage:
 2. Setup repo as normal
 3. Clone new repo
 4. Rename the TemplateProject folder to whatever you want for your Unity Project
-5. If you really want you can rebase and errase all the history so it looks like you started this project already setup with your correct name instead of history like "setup template project"
